@@ -16,7 +16,8 @@ Design an ERD representing the database for a  car Doctor who needs it to suppor
 <details><summary>click to see the schema </summary>
   <img src="db-images/Question1.PNG">
 </details> 
-2. Normal Form
+2. Normal Form 
+
 <details><summary>click to see explanation </summary> 
   
 ###### Checking for 1st normal form (1NF): 
@@ -30,6 +31,8 @@ Design an ERD representing the database for a  car Doctor who needs it to suppor
 *	There is no transitive dependency in any of the table. Since the table is in 1NF ,2NF and no transitive dependency, we conclude that the table is in 3NF. (It is also important to see that the License plate number does not identify the license state rather it will be the plate number only that is why no transitivity here.)
 
 </details> 
-3. <details><summary>click </summary>
-  <p>The DDL, DQL and DML For the rest of the problem <mark>qestion 3, 5, 6, 7</mark> refer to Phase 2 querry.sql</p>
+3. The DDL, DQL and DML For the rest of the problem 
+
+<details><summary>click </summary>
+  <p><mark>qestion 3, 5, 6, 7</mark> refer to Phase 2 querry.sql</p>
 </details> 
