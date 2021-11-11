@@ -4,4 +4,5 @@
 Design an ERD representing the database for a  car Doctor who needs it to supports its operations in its three locations in central Illinois.([problem](https://drive.google.com/file/d/1kl1eZihiegSey0KstG249dcz5jCBj7Sm/view?usp=sharing))
 <details><summary> see solution for ERD </summary>
 ![ERD - Car Doctor](https://github.com/kuta-ndze/sql_classwork/db-images/raw/master/carDoc-Phase1.png)
+  <img src="db-images/carDoc-Phase1.png" alt="CarDoc db">
 </details>
