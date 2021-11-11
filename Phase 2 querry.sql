@@ -1,3 +1,16 @@
+/*---Drop any existing tables if they exists---*/
+
+DROP TABLE customer;
+DROP TABLE vehicle;
+DROP TABLE repairorder;
+DROP TABLE part;
+DROP TABLE partused;
+DROP TABLE branch;
+DROP TABLE inventory;
+
+
+/*---CREATE THE TABLES WITH CONSTRAINTS AT COLUMN LEVEL---*/
+
 CREATE TABLE customer
 (CustNo NUMBER(4),
 CustFName VARCHAR2(20) NOT NULL,
@@ -74,6 +87,7 @@ QtyOnHand NUMBER NOT NULL,
 	    REFERENCES branch(BranchNo),
 	CONSTRAINT inventory_QtyOnHand_ck CHECK (QtyOnHand>0));
 
+/*---INSERT VALUES INTO TABLES---*/
 
 INSERT INTO customer(CustNo,CustFName,CustLName,CustAddress,CustCity,CustState,CustZipCode,CustPhoneNo)
   VALUES (0001,'Eric','Edem','909 Market St.','Normal','IL','61761','3099890714');
