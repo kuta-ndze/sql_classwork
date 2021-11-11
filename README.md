@@ -20,7 +20,7 @@ Design an ERD representing the database for a  car Doctor who needs it to suppor
 <details><summary>click to see the schema </summary>
 ###### Checking for 1st normal form (1NF): 
   
-* This is a relation with no multivalued attributes and each row is unique, hence it is in 1NF .<br>
+* This is a relation with no multivalued attributes and each row is unique, hence it is in 1NF .
 ###### Checking for 2nd normal form (2NF): 
   
 *	Even though they are bridge entities with composite keys for PARTUSED and INVENTORY however there is no Partial dependency because in these two entities because the values of the non-key attributes for each entity is determine by the respective composite key , hence functional dependencies. 
