@@ -3,5 +3,5 @@
 ### Project Discription
 Design an ERD representing the database for a  car Doctor who needs it to supports its operations in its three locations in central Illinois.([problem](https://drive.google.com/file/d/1kl1eZihiegSey0KstG249dcz5jCBj7Sm/view?usp=sharing))
 <details><summary> see solution for ERD </summary>
-![ERD - Oracle HR Schema](./db-images/carDoc-Phase1.png)
+![ERD - Oracle HR Schema](../db-images/carDoc-Phase1.png)
 </details>
