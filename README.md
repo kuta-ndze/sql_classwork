@@ -31,5 +31,5 @@ Design an ERD representing the database for a  car Doctor who needs it to suppor
 
 </details> 
 3. <details><summary>click to see the schema </summary>
-  For the rest of the questions in [see problem](https://docs.google.com/document/d/1VlHrhxe5IUMfBgFbj4XjbYXkHjUbXr0M/edit?usp=sharing&ouid=104958678762290645389&rtpof=true&sd=true)  refer to Phase 2 querry.sql
+  For the rest of the questions in ([see problem](https://docs.google.com/document/d/1VlHrhxe5IUMfBgFbj4XjbYXkHjUbXr0M/edit?usp=sharing&ouid=104958678762290645389&rtpof=true&sd=true))  refer to Phase 2 querry.sql
 </details> 
