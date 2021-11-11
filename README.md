@@ -5,7 +5,7 @@ Design an ERD representing the database for a  car Doctor who needs it to suppor
 
 #### Car Doctor ERD 
 
-<details><summary> see solution for ERD </summary>
+<details><summary> click to see ERD </summary>
   <img src="db-images/carDoc-Phase1.png" alt="CarDoc db">
 </details>
 
@@ -30,6 +30,6 @@ Design an ERD representing the database for a  car Doctor who needs it to suppor
 *	There is no transitive dependency in any of the table. Since the table is in 1NF ,2NF and no transitive dependency, we conclude that the table is in 3NF. (It is also important to see that the License plate number does not identify the license state rather it will be the plate number only that is why no transitivity here.)
 
 </details> 
-3. <details><summary>click to see the schema </summary>
+3. <details><summary>click </summary>
   <p>The DDL, DQL and DML For the rest of the problem <mark>qestion 3, 5, 6, 7</mark> refer to Phase 2 querry.sql</p>
 </details> 
