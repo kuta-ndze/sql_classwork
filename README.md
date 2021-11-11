@@ -12,8 +12,7 @@ Design an ERD representing the database for a  car Doctor who needs it to suppor
 ## Phase 2 project
 ### Project Description this is a continuation of Phase 1 project ([see problem](https://docs.google.com/document/d/1VlHrhxe5IUMfBgFbj4XjbYXkHjUbXr0M/edit?usp=sharing&ouid=104958678762290645389&rtpof=true&sd=true)) 
 
-1. Relational Schema 
-
+1. Relational Schema<br>
 <details><summary>click to see the schema </summary>
   <img src="db-images/Question1.PNG">
 </details> 
