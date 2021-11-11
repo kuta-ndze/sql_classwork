@@ -17,13 +17,14 @@ Design an ERD representing the database for a  car Doctor who needs it to suppor
   <img src="db-images/Question1.PNG">
 </details> 
 2. Normal Form
-<details><summary>click to see the schema </summary>
+<details><summary>click to see the schema </summary> 
+  
 ###### Checking for 1st normal form (1NF): 
   
 * This is a relation with no multivalued attributes and each row is unique, hence it is in 1NF .
 ###### Checking for 2nd normal form (2NF): 
   
-*	Even though they are bridge entities with composite keys for PARTUSED and INVENTORY however there is no Partial dependency because in these two entities because the values of the non-key attributes for each entity is determine by the respective composite key , hence functional dependencies. 
+*	Even though they are bridge entities with composite keys for PARTUSED and INVENTORY however there is no Partial dependency because in these two entities the values of the non-key attributes for each entity is determine by the respective composite key , hence functional dependencies. 
 ###### Checking for 3rd normal form (3NF): 
   
 *	There is no transitive dependency in any of the table. Since the table is in 1NF ,2NF and no transitive dependency, we conclude that the table is in 3NF. (It is also important to see that the License plate number does not identify the license state rather it will be the plate number only that is why no transitivity here.)
