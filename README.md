@@ -31,5 +31,5 @@ Design an ERD representing the database for a  car Doctor who needs it to suppor
 
 </details> 
 3. <details><summary>click to see the schema </summary>
-  For the rest of the questions in <img src="db-images/Question1.PNG", alt = "Questions">  refer to Phase 2 querry.sql
+  The DDL, DQL and DML For the rest of the problem `question 3, 5, 6, 7`  refer to Phase 2 querry.sql
 </details> 
