@@ -38,8 +38,8 @@ Design an ERD representing the database for a  car Doctor who needs it to suppor
 </details>
 <h2> Phase 3 poject </h2>
 ### Problem description ([problem](https://docs.google.com/document/d/1mCiR-ve0xqJSEPiFva3_UD64ROfks3w8/edit?usp=sharing&ouid=104958678762290645389&rtpof=true&sd=true))
-<p> Querry for all problems in word document in phase 3 queery.sql </p>
+* Querry for all problems in word document in phase 3 queery.sql 
 
 <h2> Final Project </h2>
-### Problem description ([problem](https://docs.google.com/document/d/1e8zghsqgiJZchlbNr-VfAbmbVRYqveee/edit?usp=sharing&ouid=104958678762290645389&rtpof=true&sd=true) 
-<p> Querry all problems in word document in Joins Asg8.sql </p>
+### Problem description ([problem](https://docs.google.com/document/d/1e8zghsqgiJZchlbNr-VfAbmbVRYqveee/edit?usp=sharing&ouid=104958678762290645389&rtpof=true&sd=true)) 
+* Querry all problems in word document in Joins Asg8.sql
