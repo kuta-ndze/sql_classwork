@@ -36,7 +36,7 @@ Design an ERD representing the database for a  car Doctor who needs it to suppor
 <details><summary>click </summary>
   <p><mark>qestion 3, 5, 6, 7</mark> refer to Phase 2 querry.sql</p>
 </details>
-## Phase 3 poject
+## Phase 3 poject 
 ### Problem description ([see problem](https://docs.google.com/document/d/1mCiR-ve0xqJSEPiFva3_UD64ROfks3w8/edit?usp=sharing&ouid=104958678762290645389&rtpof=true&sd=true)) 
 
 * Querry for all problems in word document in phase 3 queery.sql 
