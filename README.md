@@ -41,10 +41,10 @@ Design an ERD representing the database for a  car Doctor who needs it to suppor
 
 ### Problem description ([see problem](https://docs.google.com/document/d/1mCiR-ve0xqJSEPiFva3_UD64ROfks3w8/edit?usp=sharing&ouid=104958678762290645389&rtpof=true&sd=true))
 
-* Querry for all problems in word document in phase 3 queery.sql
+* Querry solutions are in phase 3 querry.sql
 
 ## Final Project
 
 ### Problem description ([see problem](https://docs.google.com/document/d/1e8zghsqgiJZchlbNr-VfAbmbVRYqveee/edit?usp=sharing&ouid=104958678762290645389&rtpof=true&sd=true))
 
-* Querry for all problems in word document in Joins Asg8.sql
+* Querry for all problems in above link are  in the Joins Asg8.sql file
